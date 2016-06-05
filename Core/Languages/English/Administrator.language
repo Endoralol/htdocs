@@ -1,0 +1,76 @@
+# Administrator Localization
+Administrator_Title = <font color="red">Admin Panel</font>
+Administrator_Page_Title = Admin Panel
+Administrator_SiteControl = Site Management
+Administrator_ForumControl = Forum Management
+Administrator_SiteStat = Site Statistics
+Administrator_AddArticle = Add News
+Administrator_Antivirus = Check The Integrity Of Files
+Administrator_UserManagement = User Management
+Administrator_Articles = News Management
+Administrator_PatchNotes = List management changes
+Administrator_Antivirus_Failed = Modified
+Administrator_Antivirus_New = New files
+Administrator_Antivirus_No_New = No new files
+Administrator_Antivirus_No_Failed = All files have been tested
+Administrator_Antivirus_Options = Options
+Administrator_Antivirus_Total = All files
+Administrator_Antivirus_Integrity = Security
+Administrator_Antivirus_Rescan = Rescan
+Administrator_Antivirus_LastScan = Updated
+Administrator_Antivirus_NF = New
+Administrator_Antivirus_CF = Changed
+Administrator_Antivirus_TF = Just
+Administrator_Antivirus_NT = Untouched
+Administrator_Antivirus_Renew_Tooltip = To update the list of files<br />Do it only if you are sure that the files were added by you
+Administrator_Antivirus_Integrity_Tooltip = Line shows subjective evaluation of system security
+Administrator_Localization = Managing Languages
+Administrator_Localization_Installed = Installed Languages
+Administrator_Localization_Edit = Edit Language
+Administrator_Localization_MainFile = Main language file
+
+Administrator_Shop = Store Settings
+Administrator_Shop_Management = Store Management
+Administrator_Shop_AddItem = Add Item
+Administrator_Shop_DeleteItem = Remove Item
+Administrator_Shop_EditItem = Change Item
+Administrator_Shop_Stats = Statistics Store
+Administrator_Shop_Revenue = Income
+Administrator_Shop_Items_Count = Total Items
+Administrator_Shop_Items_Price = In amount of
+Administrator_Shop_Add_Hint_One = To add an item, type its ID and press button <br /> <i>Get Data</i>
+Administrator_Shop_Add_Hint_Two = After receiving data, you can specify price of item
+Administrator_Shop_Add_Item_ID = ID Item
+Administrator_Shop_Add_Get_Data = Obtain Data
+Administrator_Shop_Add_Item_Price = Price Item
+
+
+Administrator_Shop_Edit_Item_Subheader = Select item to edit
+Administrator_Shop_Edit_Item_SideTitle = Select item from list for further editing
+Administrator_Shop_Edit_Item_Template = Select The Background
+Administrator_Shop_Edit_Item_Color = Background Color
+Administrator_Shop_Edit_Item_Name = Name Item
+Administrator_Shop_Edit_Item_Price = Price Item
+Administrator_Shop_Edit_Item_Save = Save
+
+Administrator_Shop_Delete_Item_SideTitle  = Select an item from list to delete it
+Administrator_Shop_Delete_Item_Subheader  = Select the item to delete
+
+Administrator_PatchNotes_Add = Add List Changes
+Administrator_PatchNotes_Delete = Remove List Changes
+Administrator_PatchNotes_Edit = Change List Changes
+
+Administrator_Articles_Add = Add News
+Administrator_Articles_Delete = Delete News
+Administrator_Articles_Edit = Change News
+Administrator_Articles_Add_Info1 = Brief news
+Administrator_Articles_Add_Info2 = Full news
+Administrator_Articles_Add_Info3 = Name
+
+Administrator_Forum_Manage_Categories = Manage Categories
+Administrator_Forum_Manage_MVP = Management MVP
+Administrator_Forum_Manage_Posts = Records Management
+
+Administrator_Users_Registered = Registered Users
+Administrator_Users_Registered_Today = Today:
+Administrator_Users_Registered_Total = Just:
